@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 
 export default function ProductItem({ product }) {
@@ -5,10 +6,12 @@ export default function ProductItem({ product }) {
     <div className="card">
       <Link href={`/product/${product.slug}`} passHref>
        
-          <img
+          <Image
             src={product.image}
             alt={product.name}
             className="rounded shadow"
+            width={500} // Set the desired width of the image
+          height={300} // Set the desired height of the image
           />
        
       </Link>

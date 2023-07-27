@@ -1,12 +1,14 @@
+
 import ProductItem from "@/components/ProductItem";
 import data from "../../utils/data";
+import Results from "@/components/Results";
+const results = data.products;
 
-export default function Home() {
+export default async function Home() {
+  
   return (
     <div className="grid gric-cols-1 gap-4 md:grid-cols-3 lg:grid-cols-4 p-10 justify-center">
-      {data.products.map((product) => (
-        <ProductItem product={product} key={product.slug}></ProductItem>
-      ))}
+      <Results results={results}/>
     </div>
   )
 }

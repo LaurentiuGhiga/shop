@@ -1,0 +1,52 @@
+{
+    "products": [
+      {
+        "name": "Word 2020",
+        "slug": "word2020",
+        "category": "office",
+        "image": "/images/word2020.jpeg",
+        "price": "19",
+        "brand": "Microsoft",
+        "rating": "4.8",
+        "numReviews": "3",
+        "countInStock": "36",
+        "description": "Best Word Office 2020"
+      },
+      {
+        "name": "PowerPoint 2020",
+        "slug": "power_point2020",
+        "category": "office",
+        "image": "/images/powerpoint.jpeg",
+        "price": "23",
+        "brand": "Microsoft",
+        "rating": "4.7",
+        "numReviews": "4",
+        "countInStock": "12",
+        "description": "Best Power Point 2020"
+      },
+      {
+        "name": "Photoshop 2020",
+        "slug": "photoshop2020",
+        "category": "adobe",
+        "image": "/images/photoshop.png",
+        "price": "35",
+        "brand": "Adobe",
+        "rating": "4.8",
+        "numReviews": "3",
+        "countInStock": "36",
+        "description": "Best Photoshop 2020"
+      },
+      {
+        "name": "AdobeXD 2022",
+        "slug": "adobexd2022",
+        "category": "adobe",
+        "image": "/images/adobexd.jpeg",
+        "price": "14",
+        "brand": "Microsoft",
+        "rating": "4.6",
+        "numReviews": "39",
+        "countInStock": "58",
+        "description": "Best AdobeXD ever"
+      }
+    ]
+  }
