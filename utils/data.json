@@ -7,7 +7,7 @@
         "image": "/images/word2020.jpeg",
         "price": "19",
         "brand": "Microsoft",
-        "rating": "4.8",
+        "rating": "1805",
         "numReviews": "3",
         "countInStock": "36",
         "description": "Best Word Office 2020"
@@ -19,7 +19,7 @@
         "image": "/images/powerpoint.jpeg",
         "price": "23",
         "brand": "Microsoft",
-        "rating": "4.7",
+        "rating": "981",
         "numReviews": "4",
         "countInStock": "12",
         "description": "Best Power Point 2020"
@@ -31,7 +31,7 @@
         "image": "/images/photoshop.png",
         "price": "35",
         "brand": "Adobe",
-        "rating": "4.8",
+        "rating": "238",
         "numReviews": "3",
         "countInStock": "36",
         "description": "Best Photoshop 2020"
@@ -43,7 +43,7 @@
         "image": "/images/adobexd.jpeg",
         "price": "14",
         "brand": "Microsoft",
-        "rating": "4.6",
+        "rating": "1848",
         "numReviews": "39",
         "countInStock": "58",
         "description": "Best AdobeXD ever"

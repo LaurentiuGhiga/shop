@@ -12,7 +12,7 @@ export default async function Home() {
   
   
   return (
-    <div className="grid grid-cols-1 gap-4 md:grid-cols-3 lg:grid-cols-4 p-10 justify-center">
+    <div className="">
       <Results results={results}/>
     </div>
   )
