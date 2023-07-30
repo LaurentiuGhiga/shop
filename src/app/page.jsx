@@ -4,7 +4,7 @@ import data from "../../utils/data";
 import Results from "@/components/Results";
 
 export default async function Home() {
-  const results = data.products;
+  const results = await data.products;
  
   if (!results){
     throw new Error("Failed to fetch data");

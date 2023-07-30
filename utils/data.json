@@ -1,52 +1,52 @@
 {
-    "products": [
-      {
-        "name": "Word 2020",
-        "slug": "word2020",
-        "category": "office",
-        "image": "/images/word2020.jpeg",
-        "price": "19",
-        "brand": "Microsoft",
-        "rating": "1805",
-        "numReviews": "3",
-        "countInStock": "36",
-        "description": "Best Word Office 2020"
-      },
-      {
-        "name": "PowerPoint 2020",
-        "slug": "power_point2020",
-        "category": "office",
-        "image": "/images/powerpoint.jpeg",
-        "price": "23",
-        "brand": "Microsoft",
-        "rating": "981",
-        "numReviews": "4",
-        "countInStock": "12",
-        "description": "Best Power Point 2020"
-      },
-      {
-        "name": "Photoshop 2020",
-        "slug": "photoshop2020",
-        "category": "adobe",
-        "image": "/images/photoshop.png",
-        "price": "35",
-        "brand": "Adobe",
-        "rating": "238",
-        "numReviews": "3",
-        "countInStock": "36",
-        "description": "Best Photoshop 2020"
-      },
-      {
-        "name": "AdobeXD 2022",
-        "slug": "adobexd2022",
-        "category": "adobe",
-        "image": "/images/adobexd.jpeg",
-        "price": "14",
-        "brand": "Microsoft",
-        "rating": "1848",
-        "numReviews": "39",
-        "countInStock": "58",
-        "description": "Best AdobeXD ever"
-      }
-    ]
-  }
+  "products": [
+    {
+      "name": "Word 2020",
+      "slug": "word2020",
+      "category": "office",
+      "image": "/images/word2020.jpeg",
+      "price": "19",
+      "brand": "Microsoft",
+      "rating": "1805",
+      "numReviews": "3",
+      "countInStock": "36",
+      "description": "Main functions of Word Excel 2020 – Docx Office, PDF, Slide Reader. Word Excel 2020 very simple and easy to use word office viewer, docx reader and excel spreadsheet. Word Office - Excel for ipad, doc reader does not require any internet connection and can be used for office word document app as well with all FREE word reader. All Office Reader support read sheets, keynote or view Docx word office for docs and pdf files with word office viewer and pdf viewer from internal storage, external storage, email, cloud and web easily"
+    },
+    {
+      "name": "PowerPoint 2020",
+      "slug": "power_point2020",
+      "category": "office",
+      "image": "/images/powerpoint.jpeg",
+      "price": "23",
+      "brand": "Microsoft",
+      "rating": "981",
+      "numReviews": "4",
+      "countInStock": "12",
+      "description": "PowerPoint 2021 for Windows lets you create compelling content with the addition of features including co-authoring, Ink Replay, improved slide show recording, new stock media from the Office Premium Creative Content collection and new Draw tab additions such as Point Eraser, Ruler, and Lasso. If you're upgrading to PowerPoint 2021 for Windows from PowerPoint 2019 for Windows, you'll still have all the features you're used to—and you'll notice a few new ones as well! Note: Some features listed below are not included in PowerPoint LTSC 2021 for commercial customers. Each of those features is noted if it does not apply to PowerPoint LTSC 2021 for commercial customers."
+    },
+    {
+      "name": "Photoshop 2020",
+      "slug": "photoshop2020",
+      "category": "adobe",
+      "image": "/images/photoshop.png",
+      "price": "35",
+      "brand": "Adobe",
+      "rating": "238",
+      "numReviews": "3",
+      "countInStock": "36",
+      "description": "Note: With the September 2021 release of Photoshop 22.5.1, we provide fixes to several customer-reported issues. For details, see Fixed issues. Also, for checking the full list of supported cameras and lenses, see Supported camera models and Supported lenses. "
+    },
+    {
+      "name": "AdobeXD 2022",
+      "slug": "adobexd2022",
+      "category": "adobe",
+      "image": "/images/adobexd.jpeg",
+      "price": "14",
+      "brand": "Microsoft",
+      "rating": "1848",
+      "numReviews": "39",
+      "countInStock": "58",
+      "description": "What is Adobe XD? Built from the ground up with performance top of mind, Adobe XD helps you craft prototypes that look and feel like the real thing, so you can communicate your design vision and maintain alignment across your team efficiently. Adobe XD is a powerful and easy-to-use vector-based experience design platform that gives teams the tools they need to craft the world’s best experiences collaboratively. Available on Mac and Windows systems, XD meets teams where they’re working with cross-platform compatibility."
+    }
+  ]
+}
